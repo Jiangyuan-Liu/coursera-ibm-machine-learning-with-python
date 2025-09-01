@@ -18,26 +18,26 @@ I now have a strong foundation in **Python-based machine learning**, combining t
 
 ## 📚 Skills Covered and Notebooks
 
-1. [Simple Linear Regression](Simple-Linear-Regression.ipynb)
-2. [Multiple Linear Regression](Mulitple-Linear-Regression.ipynb)
-3. [Logistic Regression](Logistic_Regression.ipynb)
-4. [Multi-class Classification](Multi-class_Classification.ipynb)
-5. [Decision Trees](Decision_trees.ipynb)
-6. [Regression Trees](Regression_Trees_Taxi_Tip.ipynb)
-7. [Credit Card Fraud Detection with Decision Trees and SVM](decision_tree_svm_ccFraud.ipynb)
-8. [Customer Service Category Prediction with K-Nearest Neighbors Classifier](KNN_Classification.ipynb)
-9. [Predicting California Housing Prices with Random Forest and XGBoost Regression](Random_ Forests _XGBoost.ipynb)
-10. [K-Means - Customer Segmentation](K-Means-Customer-Seg.ipynb)
-11. [Comparing DBSCAN and HDBSCAN for Cultural Facility Clustering in Canada](Comparing_DBScan_HDBScan.ipynb)
-12. [Applications of Principal Component Analysis (PCA)](PCA.ipynb)
-13. [t-SNE and UMAP](tSNE_UMAP.ipynb)
-14. [Evaluating Classification Models on Breast Cancer Data](Evaluating_Classification_Models.ipynb)
-15. [Evaluating Random Forest Regression Performance on California Housing Data](Evaluating_random_forest.ipynb)
-16. [Evaluating K-means Clustering](Evaluating_k-means_clustering.ipynb)
-17. [Regularization in Linear Regression](Regularization_in_LinearRegression.ipynb)
-18. [Machine Learning Pipelines and GridSearchCV](ML_Pipelines_and_GridSearchCV.ipynb)
-19. [Practice Project: Titanic Survival Prediction with ML Pipelines](Practice_Project.ipynb)
-20. [Final Project: Rainfall Prediction Classifier](FinalProject_AUSWeather.ipynb)  
+1. [Simple Linear Regression](https://github.com/Jiangyuan-Liu/coursera-ibm-machine-learning-with-python/blob/main/Simple-Linear-Regression.ipynb)
+2. [Multiple Linear Regression](https://github.com/Jiangyuan-Liu/coursera-ibm-machine-learning-with-python/blob/main/Multiple-Linear-Regression.ipynb)
+3. [Logistic Regression](https://github.com/Jiangyuan-Liu/coursera-ibm-machine-learning-with-python/blob/main/Logistic_Regression.ipynb)
+4. [Multi-class Classification](https://github.com/Jiangyuan-Liu/coursera-ibm-machine-learning-with-python/blob/main/Multi-class_Classification.ipynb)
+5. [Decision Trees](https://github.com/Jiangyuan-Liu/coursera-ibm-machine-learning-with-python/blob/main/Decision_trees.ipynb)
+6. [Regression Trees](https://github.com/Jiangyuan-Liu/coursera-ibm-machine-learning-with-python/blob/main/Regression_Trees_Taxi_Tip.ipynb)
+7. [Credit Card Fraud Detection with Decision Trees and SVM](https://github.com/Jiangyuan-Liu/coursera-ibm-machine-learning-with-python/blob/main/decision_tree_svm_ccFraud.ipynb)
+8. [Customer Service Category Prediction with K-Nearest Neighbors Classifier](https://github.com/Jiangyuan-Liu/coursera-ibm-machine-learning-with-python/blob/main/KNN_Classification.ipynb)
+9. [Predicting California Housing Prices with Random Forest and XGBoost Regression](https://github.com/Jiangyuan-Liu/coursera-ibm-machine-learning-with-python/blob/main/Random_Forests_XGBoost.ipynb)
+10. [K-Means - Customer Segmentation](https://github.com/Jiangyuan-Liu/coursera-ibm-machine-learning-with-python/blob/main/K-Means-Customer-Seg.ipynb)
+11. [Comparing DBSCAN and HDBSCAN for Cultural Facility Clustering in Canada](https://github.com/Jiangyuan-Liu/coursera-ibm-machine-learning-with-python/blob/main/Comparing_DBScan_HDBScan.ipynb)
+12. [Applications of Principal Component Analysis (PCA)](https://github.com/Jiangyuan-Liu/coursera-ibm-machine-learning-with-python/blob/main/PCA.ipynb)
+13. [t-SNE and UMAP](https://github.com/Jiangyuan-Liu/coursera-ibm-machine-learning-with-python/blob/main/tSNE_UMAP.ipynb)
+14. [Evaluating Classification Models on Breast Cancer Data](https://github.com/Jiangyuan-Liu/coursera-ibm-machine-learning-with-python/blob/main/Evaluating_Classification_Models.ipynb)
+15. [Evaluating Random Forest Regression Performance on California Housing Data](https://github.com/Jiangyuan-Liu/coursera-ibm-machine-learning-with-python/blob/main/Evaluating_random_forest.ipynb)
+16. [Evaluating K-means Clustering](https://github.com/Jiangyuan-Liu/coursera-ibm-machine-learning-with-python/blob/main/Evaluating_k-means_clustering.ipynb)
+17. [Regularization in Linear Regression](https://github.com/Jiangyuan-Liu/coursera-ibm-machine-learning-with-python/blob/main/Regularization_in_LinearRegression.ipynb)
+18. [Machine Learning Pipelines and GridSearchCV](https://github.com/Jiangyuan-Liu/coursera-ibm-machine-learning-with-python/blob/main/ML_Pipelines_and_GridSearchCV.ipynb)
+19. [Practice Project: Titanic Survival Prediction with ML Pipelines](https://github.com/Jiangyuan-Liu/coursera-ibm-machine-learning-with-python/blob/main/Practice_Project.ipynb)
+20. [Final Project: Rainfall Prediction Classifier](https://github.com/Jiangyuan-Liu/coursera-ibm-machine-learning-with-python/blob/main/FinalProject_AUSWeather.ipynb)  
     Built and optimized rainfall prediction models using Logistic Regression and Random Forest classifiers, comparing interpretability and performance through feature engineering, cross-validation, and evaluation metrics.
 
 
@@ -49,10 +49,10 @@ I now have a strong foundation in **Python-based machine learning**, combining t
 
 Helpful quick-reference materials used throughout the course and beyond are included in the [`cheatsheets/`](cheatsheets/) folder:
 
-- `Cheat_Sheet_Linear_and_Logistic_Regression.pdf`
-- `Cheat_Sheet_Building_Supervised_Learning_Models.pdf`
-- `Cheat_Sheet_Building_Unsupervised_Learning_Models.pdf`
-- `Cheat_Sheet_Evaluating_and_Validating_Machine_Learning_Models.pdf`
+- [Cheat Sheet: Linear and Logistic Regression](cheatsheets/Cheat_Sheet_Linear_and_Logistic_Regression.pdf)
+- [Cheat Sheet: Building Supervised Learning Models](cheatsheets/Cheat_Sheet_Building_Supervised_Learning_Models.pdf)
+- [Cheat Sheet: Building Unsupervised Learning Models](cheatsheets/Cheat_Sheet_Building_Unsupervised_Learning_Models.pdf)
+- [Cheat Sheet: Evaluating and Validating Machine Learning Models](cheatsheets/Cheat_Sheet_Evaluating_and_Validating_Machine_Learning_Models.pdf)
 
 > Use these for quick reminders while coding or reviewing concepts.
 
